@@ -14,7 +14,7 @@ def MostrarMenu():
     print('''Seja bem vindo à aplicação de gestão de alunos.
             1)----Criar uma turma---------------------------
             2)----Inserir um aluno na turma-----------------
-            3)----Listar uma turma----------------------------
+            3)----Listar uma turma--------------------------
             4)----Consultar um aluno por id-----------------
             5)----Guardar a turma em ficheiro---------------
             6)----Carregar uma turma dum ficheiro-----------
